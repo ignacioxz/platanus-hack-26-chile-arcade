@@ -1,5 +1,5 @@
 {
-  "game_name": "Platanus Hack: Santiago Brick Breaker",
-  "description": "Batalla campal por romper la mayor cantidad de ladrillos",
-  "player_mode": "two_player"
+  "game_name": "SANTIAGO VICE",
+  "description": "Corre a toda máquina por los túneles del Metro de Santiago en un viaje neón sin fin. Gira alrededor del túnel con el joystick, usa cualquier botón para el turbo y llega a tu estación de destino siguiendo el mapa en vivo. Elige línea en las combinaciones, encadena plátanos y descubre la Línea 7 secreta. / An endless neon race through the tunnels of the Santiago Metro: spin around the tube, hit turbo, follow the live map to your destination station, pick a line at every interchange and unlock the secret Line 7.",
+  "player_mode": "single_player"
 }
